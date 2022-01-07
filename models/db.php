@@ -4,7 +4,6 @@ class Db
 {
 
   protected $connection;
-  protected $redis;
 
 	public function __construct() {
 
